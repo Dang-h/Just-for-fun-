@@ -24,4 +24,4 @@
 
 1. [octotree](https://github.com/ovity/octotree)：为你逛Github仓库加一份目录
 
-   ![octotree](G:\Git_Repository\Just_for_fun\note\assets\1561082892384.png)
+   ![octotree](https://github.com/Dang-h/Just_for_fun/blob/master/note/assets/octotree.png)
