@@ -4,7 +4,10 @@
 
 -----
 
-1. [brook](https://github.com/Dang-h/Just_for_fun/blob/master/software/brook/brook.md)
+## 畅游互联网
+
+1. [brook](software/brook/brook.md)
+2. [Trojan部署及使用](software/Trojan.md)
 
 
 
